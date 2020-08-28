@@ -61,7 +61,7 @@ gem 'rack-cors', :require => 'rack/cors'
 
 gem 'bower-rails'
 
-gem 'bootstrap-sass', '~> 3.3.5'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 #Yodlee API
 
